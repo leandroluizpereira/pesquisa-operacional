@@ -31,4 +31,4 @@ O suprimento de matérial de 200 kg , a disponibilidade de mão de obra e de 150
 - (Não-negatividade) $\to$ X<sub>A</sub> ≥ 0, X<sub>B</sub> ≥ 0, X<sub>C</sub> ≥ 0.
 
 
----- Aula 3  ---- 8:54  
+
