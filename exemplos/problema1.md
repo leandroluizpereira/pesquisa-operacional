@@ -21,3 +21,10 @@ O suprimento de matérial de 200 kg , a disponibilidade de mão de obra e de 150
 
 Max z = 4X<sub>A</sub>+ 2X <sub>B</sub> + 3X<sub>c</sub>
 
+
+3 - Identificação das restriçôes : 
+
+(Limitação de mão de obra ) $\to$ 7X<sub>A</sub> + 3X<sub>B</sub>+ 6X<sub>C</sub> ≤ 150
+
+
+---- Aula 3 concluida ---- 
