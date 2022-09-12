@@ -19,12 +19,16 @@ O suprimento de matérial de 200 kg , a disponibilidade de mão de obra e de 150
 
 2 - Identificação de objetivo : maximinazação do lucro total 
 
-Max z = 4X<sub>A</sub>+ 2X <sub>B</sub> + 3X<sub>c</sub>
+- Max z = 4X<sub>A</sub>+ 2X <sub>B</sub> + 3X<sub>c</sub>
 
 
 3 - Identificação das restriçôes : 
 
-(Limitação de mão de obra ) $\to$ 7X<sub>A</sub> + 3X<sub>B</sub>+ 6X<sub>C</sub> ≤ 150
+- (Limitação de mão de obra ) $\to$ 7X<sub>A</sub> + 3X<sub>B</sub>+ 6X<sub>C</sub> ≤ 150
+
+- (limmitação de material) $\to$ 4X<sub>A</sub> + 4X <sub>B</sub> + 5X<sub>C</sub> ≤ 200
+
+- (Não-negatividade) $\to$ X<sub>A</sub> ≥ 0, X<sub>B</sub> ≥ 0, X<sub>C</sub> ≥ 0.
 
 
 ---- Aula 3 concluida ---- 
