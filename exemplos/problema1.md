@@ -6,7 +6,7 @@ O suprimento de matérial de 200 kg , a disponibilidade de mão de obra e de 150
 |           ||modelos ||
 ---------|---|:---:|--|
 |        | A | B |C |
-|Mão de obra obra por unidade | 7  | 3 | 6 |
+|Mão de obra por unidade | 7  | 3 | 6 |
 | Material (kg por unidade)    | 4 | 4 | 5 |
 |Lucro (por unidade)           | 4 | 2 | 3 |
 
