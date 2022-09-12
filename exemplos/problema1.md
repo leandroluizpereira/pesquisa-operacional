@@ -19,5 +19,5 @@ X <sub>c</sub> - produção diária C
 
 2 - Identificação de objetivo : maximinazação o lucro total 
 
-Maz z = 4X<sub>A</sub>+ 2x <sub>B</sub> + 3x<sub>c</sub>
+Max z = 4X<sub>A</sub>+ 2x <sub>B</sub> + 3x<sub>c</sub>
 
