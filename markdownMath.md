@@ -9,6 +9,24 @@ Para deixar  númro sobrescrito ``` 2 <sup> x</sup> ```
 
 Ficando : 2 <sup> x </sup>
 
+Operadores : 
+
+≤	menor e igual
+≥	maior ou igual
+≠	diferença
+←	seta para esquerda
+°	graus
+€	euro
+∝	proporcional
+∅	vazio
+∉	não pertence
+∈	pertence
+∞	infinito
+↔	seta dupla
+≅	aproximado
+⊂	contido
+∪	união
+Σ	somatória (sigma)
 
 
 |Simbolos|Script|Favoritos :star:|
