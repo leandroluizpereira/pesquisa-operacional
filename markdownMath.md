@@ -1,5 +1,16 @@
 
 
+
+Para deixar o número  subscrito use a tag html ``` 2 <sub> x </sub>  ```
+
+Ficando : 2 <sub> x </sub>
+
+Para deixar  númro sobrescrito ``` 2 <sup> x</sup> ```
+
+Ficando : 2 <sup> x </sup>
+
+
+
 |Simbolos|Script|Favoritos :star:|
 |-------|--------|---------|
 |$\alpha$|\alpha|          |
@@ -126,8 +137,7 @@
 |$\ulcorner f \urcorner$ |\ulcorner f \urcorner|  |
 
 
-
-
+Para citar código mais rápido ctrl + e 
 
 
 
