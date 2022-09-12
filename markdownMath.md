@@ -49,15 +49,17 @@
 
 <strong> Roots </strong>
 
-| Simbolos | Script | Favoritos :star:|
-| $\sqrt{k}$ | 	\sqrt{k} |   |
-| $\sqrt[n]{k}$ | \sqrt[n]{k} | |
+| Simbolos | Script | Favoritos :star: |
+|----------|-------|----------------|
+|$\sqrt{k}$ | 	\sqrt{k} |   |
+|$\sqrt[n]{k}$ | \sqrt[n]{k} | |
 
 <strong> Sums and Integrals </strong>
 
 | Simbolos | Script | Favoritos :star: |
+|----------|---------|------------------|
 |$\sum_{i=1}^{10} t_i$|	\sum_{i=1}^{10} t_i|  |
-|$\int_0^\infty \mathrm{e}^{-x},\mathrm{d}x$|	\int_0^\infty \mathrm{e}^{-x},\mathrm{d}x| |
+|$\int_0^\infty \mathrm{e}^{-x},\mathrm{d}x$ |	\int_0^\infty \mathrm{e}^{-x},\mathrm{d}x| |
 | $\sum$ | 	\sum|  |
 | $\prod$ | \prod  |  |
 | $\coprod$ | \coprod |  |
@@ -75,7 +77,7 @@
 |$\iint$ | \iint | | 
 |$\iiint$|	\iiint|  |
 |$\idotsint$|	\idotsint|  |
-|$\sum_{\substack{0<i<m\0<j<n}} P(i, j)$|\sum_{\substack{0<i<m\0<j<n}} P(i, j)|  |
+|$\sum_{\substack{0<i<m\0<j<n}} P(i, j)$ | \sum_{\substack{0<i<m\0<j<n}} P(i, j)|  |
 |$\int\limits_a^b$|\int\limits_a^b|  |
 |$a’$ $a^{\prime}$|	a   a^{\prime}|  |
 |$a’’$|a’’|  |
