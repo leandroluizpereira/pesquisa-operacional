@@ -29,7 +29,7 @@ Max z = 400.000X<sub>1</sub> + 900.000X<sub>2</sub> + 500.000X<sub>3</sub> + 200
 
 3. Identificaçâo daas restriçôes:
 orçamento:
-40.000X<sub>1</sub> + 75.000X<sub>2</sub> + 30.000X<sub>3</sub> + 15.000X<sub>4</sub>≤ 800.000
+40.000X<sub>1</sub> + 75.000X<sub>2</sub> + 30.000X<sub>3</sub> + 15.000X<sub>4</sub> ≤ 800.000
 
 
 
