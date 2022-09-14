@@ -1,5 +1,16 @@
 # pesquisa-operacional
  extrair um problema no mundo real e transforma em um modelo análitico com melhor solução do probrema 
+ 
+ 
+ ## Referência 
+ 
+Youtube - Engenharia de Produção Univesp - Pesquisa Operacional I
+
+Curso de Engenharia de Produção
+
+Disciplina - Pesquisa Operacional I 
+
+<strong>Professor responsável:</strong> José Roberto Dale Luche
 
 
 
