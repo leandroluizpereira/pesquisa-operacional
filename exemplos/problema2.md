@@ -61,4 +61,4 @@ X<sub>1</sub>,X<sub>2</sub>,X<sub>3</sub>,X<sub>4</sub> ≥ 0 ( não negatividad
 
 
 
-aula 3 10:00
+aula 4
